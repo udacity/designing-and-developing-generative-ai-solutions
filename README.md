@@ -1,6 +1,6 @@
 # Purpose of This Repo
 
-This repo contains the exercises and solutions for the lesson "Introduction to designing and developing generative AI solutions" 
+This repo contains the exercises and solutions for the lesson "Introduction to Designing and Developing Generative AI Solutions" in the Building Generative AI Apps and Solutions course at Udacity. 
 
 ## Environment Requirements and Installation
 
