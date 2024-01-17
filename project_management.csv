@@ -1,0 +1,4 @@
+Task ID,Task Name,Project ID,Assigned To,Status,Priority,Due Date,Date Created,Last Updated,Time Estimate,Time Spent,Description,Project Phase,Dependencies
+1,Design Database Schema,101,Jane Doe,In Progress,High,2023-08-01,2023-07-01,2023-07-10,10,4.0,Create initial database schema for customer data,Design,
+2,Implement Login Page,101,John Smith,completed,Medium,2023-08-15,2023-07-01,2022-01-05,5,," ""Develop the login page UI and backend""",Implementation,1.0
+3,Prepare Project Report,102,Alice Johnson,Completed,Low,2023-07-15,2023-06-01,2023-07-05,2,2.0,Compile the weekly project status report,Reporting,
